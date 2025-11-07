@@ -6,7 +6,7 @@ import x from "./assets/icons8-x-50 (1).png";
 import linkedln from "./assets/icons8-linkedin-48.png";
 import productPage from "./assets/E-commerce-Product-page-screenshot2.png";
 import interiorDesign from "./assets/Interior-Web-Design-Website-2.png";
-import space from "./assets/Space-Tourism-website-screenshot.png";
+import space from "./assets/Space-Tourism-Website-screenshot.png";
 import { MenuIcon } from "lucide-react";
 function App() {
   return (
